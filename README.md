@@ -10,6 +10,11 @@
 
 ###
 
+<a href="https://www.github.com/OpGala" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/OpGala?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
   <img width="12" />
@@ -52,3 +57,9 @@
 </div>
 
 ###
+
+<div align="center">
+<a href="http://www.github.com/OpGala"><img src="https://github-readme-streak-stats.herokuapp.com/?user=OpGala&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+</div>
+
+
